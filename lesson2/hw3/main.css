@@ -1,0 +1,48 @@
+.target {
+    box-sizing: border-box;
+    background-color: black;
+    height: 400px;
+
+}
+.name1 {
+    height: 25px;
+    width: 160px;
+    border: #ee4d0d solid 4px;
+    text-align: center;
+    color: #ee4d0d;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+.name2{
+    border:4px solid #09eedf;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 20px;
+    font-size: 17px;
+    width: 170px;
+    height: 25px;
+    text-align: center;
+    color: #09eedf;
+}
+.name3 {
+    border: 4px solid #de5090;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 20px;
+    font-size: 17px;
+    width: 170px;
+    height: 25px;
+    text-align: center;
+    color: #de5090;
+}
+.name4 {
+    border: 4px solid #b92929;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 20px;
+    font-size: 17px;
+    width: 170px;
+    height: 25px;
+    text-align: center;
+    color: #b92929;
+}
