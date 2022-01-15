@@ -46,3 +46,93 @@
     text-align: center;
     color: #b92929;
 }
+.target2{
+    background-color: #9a9696;
+    height: 400px;
+    margin-top: 40px;
+    box-shadow: #ab8484 -20px -25px 25px 7px;
+}
+.target3 {
+    border-left: red solid 4px;
+    padding-left: 10px;
+}
+.target_A {
+    height: 150px;
+    width: 150px;
+    background-color: #f6b335;
+    margin-top: 30px;
+    text-align: center;
+    box-shadow: #404040 15px 15px 0px 3px;
+
+}
+.target_B{
+    height: 150px;
+    width: 150px;
+    background-color: #f6b335;
+    margin-top: 30px;
+    text-align: center;
+    box-shadow: #404040 15px 15px 5px 3px;
+}
+.target_C {
+    height: 150px;
+    width: 150px;
+    background-color: #f6b335;
+    margin-top: 30px;
+    text-align: center;
+    box-shadow: #404034 20px 20px 8px 9px;
+}
+
+.target_D{
+    height: 150px;
+    width: 150px;
+    background-color: #f6b335;
+    margin-top: 30px;
+    text-align: center;
+    box-shadow: #797777 20px 20px 8px 9px;
+}
+.target_E{
+    height: 150px;
+    width: 150px;
+    background-color: #f6b335;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: #404040 15px 15px 5px 3px;
+}
+.target_F{
+    height: 150px;
+    width: 150px;
+    background-color: #f6b335;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: #9a9696 19px 19px 5px 3px;
+}
+.lesson2{
+    margin-top: 50px;
+    height: 50px;
+    background-color: #b92929;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+.target4{
+    height: 80px;
+    background-color: #9a9696;
+    margin-top: 15px;
+}
+.target5{
+    background-color: #166fc7;
+    height: 90px;
+}
+.target6{
+    background-color: #31ee49;
+    width: 200px;
+    height: 200px;
+}
+.target7{
+    background-color: #4c2e83;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
