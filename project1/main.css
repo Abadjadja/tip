@@ -8,6 +8,10 @@
     --black-colore: #000;
 }
 
+.header{
+    width: 1440px;
+    margin: 0 auto;
+}
 .top_bar{
     height: 83px;
     display: flex;
@@ -65,6 +69,7 @@
 .header_content{
     display: flex;
     column-gap: 257px;
+    height: 750px;
 
 }
 
@@ -115,6 +120,7 @@
     left: -100px;
 }
 
+
 .header_content__image{
     width: 600px;
 }
@@ -122,6 +128,24 @@
 .header_content__image img{
     width: 100%;
 }
+
+.container_logo__title{
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+    padding-top: 189px;
+
+}
+
+.container_logo__logo{
+    margin: 59px 175px;
+
+}
+
+
 
 
 
